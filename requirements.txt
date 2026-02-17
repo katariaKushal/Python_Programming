@@ -1,0 +1,31 @@
+# Python Programming - Requirements
+# Author: Kataria Kushal
+
+# ============================================
+# SYSTEM REQUIREMENTS
+# ============================================
+# Python 3.7 or higher required
+# Tested on Python 3.7, 3.8, 3.9, 3.10, 3.11
+
+# ============================================
+# EXTERNAL DEPENDENCIES
+# ============================================
+
+# Required for Password Manager project
+cryptography==41.0.7
+
+# ============================================
+# BUILT-IN LIBRARIES (No installation needed)
+# ============================================
+# The following are used but come with Python:
+# - csv (Expense Tracker)
+# - sqlite3 (Student Management System)
+# - json (Task Manager, API Integration)
+# - threading (Multithreading programs)
+# - queue (Multithreading programs)
+# - concurrent.futures (Multithreading programs)
+# - urllib (API Integration programs)
+# - contextlib (Context Managers)
+# - functools (Decorators)
+# - abc (Design Patterns)
+# - time, os, random (Various programs)
